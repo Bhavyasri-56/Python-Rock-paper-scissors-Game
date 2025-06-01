@@ -1,2 +1,3 @@
 # Python-Rock-paper-scissors-Game
-The user can play the Rock paper Scissors game with computer.
+A classic Rock-Paper-Scissors game implemented in Python, featuring score tracking and multiple rounds.
+## Features: Computer makes a random choice, Determines round winner, Tracks user and computer scores, Allows playing multiple rounds.
